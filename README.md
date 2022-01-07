@@ -40,6 +40,8 @@ https://www.displayr.com/what-is-linear-regression/
 We will be using R scores to determine how close our computer model is to the actual data.
 The coefficient of determination or R squared is a statistical measure of how close the data pairs in a set are to their fitted regression line. This measure ranges from 0 to 1, indicating the extent to which the dependent variable in a data set is predictable. - https://www.kite.com/python/answers/how-to-calculate-r-squared-with-numpy-in-python#:~:text=The%20coefficient%20of%20determination%20or,to%20their%20fitted%20regression%20line.&text=An%20R%20squared%20of%200,can%20be%20predicted%20without%20error.
  
+After training models we have two best fits.
+
 Ridge Regression gives us an 80.9% chance of correctly predicting our Life Expectancy Score.
 
 Random Forest Regressor gives us a 98% chance of correctly predicting our Life Expectancy Score. 
